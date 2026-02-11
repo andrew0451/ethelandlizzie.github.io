@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Brittany
-date: 2026-02-10
+date: 2026-02-10 12:56:00
 description:
 img: brittany.jpeg
+tags: [Mixed Media]
 ---
-Lorem Ipsum
+## Medium: Mixed Media
+Brittany is the epitome of constant creativity and expression. The footsteps she leaves behind her glow with warmth. The relationships she forges with others are fortified by the fire of her endless empathy and kindness. She is more than a friend. She is family. To know her is to know the feeling of both safety and rest.
