@@ -1,0 +1,8 @@
+---
+layout: post
+title: Brittany
+date: 2026-02-10
+description:
+img: brittany.jpeg
+---
+Lorem Ipsum

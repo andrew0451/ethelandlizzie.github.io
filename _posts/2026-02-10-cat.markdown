@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Cat
+date: 2026-02-10
+description:
+img: cat.jpeg
+---
+Lorem Ipsum

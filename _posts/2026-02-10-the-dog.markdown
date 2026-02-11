@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Dog
+date: 2026-02-10
+description:
+img: dog.jpeg
+---
+Lorem Ipsum Woof
