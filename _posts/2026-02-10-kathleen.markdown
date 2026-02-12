@@ -6,5 +6,6 @@ description:
 img: kathleen.jpeg
 tags: [Mixed Media]
 ---
-## Medium: Mixed Media
 This piece was the first in a series of mixed media works I created for each of my friends, in an attempt to capture the way I see them. Kathleen represents the class, elegance, and poise often associated with idealized femininity. She is everything I want to be when I grow up, an image of a true woman with taste and grace.
+
+*Medium: Mixed Media*

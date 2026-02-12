@@ -6,5 +6,6 @@ description:
 img: megan.jpeg
 tags: [Mixed Media]
 ---
-## Medium: Mixed Media
 Megan represents authenticity, rawness, and the playfulness of the female experience. Although plagued by an overactive imagination, that sometimes manifests as fear; it is also her strength, as it simultaneously manifests as her whimsy.
+
+*Medium: Mixed Media*

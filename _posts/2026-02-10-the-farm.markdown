@@ -6,5 +6,6 @@ description: Lorem Ipsum
 img: the-farm.jpeg
 tags: [Watercolor, Mixed Media]
 ---
-## Medium: Watercolor/Mixed Media
 This work explores a daydream that I believe serves as an escape for many people during their most mundane days. The dream of settling in a palce of peace and safety, away from the noise that is our current and cluttered world. The composition is structured through a first-person perspective, looking out of a cottage window onto endless greenery. My intention was to flood the sky and windows with light, to create the warm feeling of a bright spring morning.
+
+*Medium: Watercolor/Mixed Media*
