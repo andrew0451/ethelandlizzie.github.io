@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Dog
-date: 2026-02-10
+title: Dog
+date: 2026-02-10 12:39:00
 description:
 img: dog.jpeg
 ---

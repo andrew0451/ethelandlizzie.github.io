@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Megan
-date: 2026-02-10
+date: 2026-02-10 12:57:00
 description:
 img: megan.jpeg
+tags: [Mixed Media]
 ---
-Lorem Ipsum
+## Medium: Mixed Media
+Megan represents authenticity, rawness, and the playfulness of the female experience. Although plagued by an overactive imagination, that sometimes manifests as fear; it is also her strength, as it simultaneously manifests as her whimsy.
