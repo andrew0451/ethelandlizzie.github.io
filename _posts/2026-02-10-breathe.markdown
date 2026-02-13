@@ -2,7 +2,7 @@
 layout: post
 title: To Breathe Again
 date: 2026-02-10 12:38:00
-img: breathe 2.jpeg
+img: breathe.jpeg
 tags: [Acrylic Markers on Canvas]
 ---
 *Medium: Acrylic Markers on Canvas*
