@@ -2,7 +2,7 @@
 layout: post
 title: Dog
 date: 2026-02-10 12:39:00
-description:
 img: dog.jpeg
+tags: [Acrylics on Canvas]
 ---
-Woof
+*Medium: Acrylics on Canvas*

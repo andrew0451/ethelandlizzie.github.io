@@ -2,7 +2,7 @@
 layout: post
 title: More Than My Bones
 date: 2026-02-10 12:44:00
-img:
-tags:
+img: bone 2.JPG
+tags: [Mixed Media]
 ---
-N/A
+*Medium: Mixed Media*

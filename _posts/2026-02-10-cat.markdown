@@ -2,7 +2,7 @@
 layout: post
 title: The Cat
 date: 2026-02-10 12:40:00
-description:
 img: cat.jpeg
+tags: [Acrylics on Canvas]
 ---
-Lorem Ipsum
+*Medium: Acrlics on Canvas*
